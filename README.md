@@ -2,9 +2,11 @@
 📌 Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of chocolate product sales performance across regions, products, and sales representatives. The objective of this project is to analyze revenue trends, profitability, shipment distribution, and sales team performance to support data-driven business decisions.
+
 The dashboard enables stakeholders to monitor KPIs, identify high-performing products and markets, and optimize overall business strategy.
 
 📊 Executive Summary (Key KPIs)
+
 Total Revenue: $141M
 Total Profit: $81M
 Total Boxes Sold: 9M
