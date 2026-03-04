@@ -8,9 +8,13 @@ The dashboard enables stakeholders to monitor KPIs, identify high-performing pro
 📊 Executive Summary (Key KPIs)
 
 Total Revenue: $141M
+
 Total Profit: $81M
+
 Total Boxes Sold: 9M
+
 Total Shipments: 25K
+
 These KPIs provide a high-level overview of overall business performance.
 
 📈 Dashboard Features & Insights
